@@ -1,1 +1,0 @@
-ALTER TABLE "form_submissions" ADD COLUMN "checked_in_at" timestamp with time zone;
